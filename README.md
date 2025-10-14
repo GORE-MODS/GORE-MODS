@@ -5,6 +5,8 @@
 
 
 
-Hello! I'm GORE and I mod games like gorilla tag!
+## Hello! I'm GORE and I mod games like gorilla tag!
 
-# Very cool ikr
+## Very cool ikr
+
+## I hope to make great mods for games in the future!
