@@ -2,9 +2,6 @@
 <img width="475" height="475" alt="GHBanner" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/White%20Cat%20Hello%20GIF%20by%20Mikitti.gif" />
 </div>
 
-
-
-
 ## Hello! I'm GORE and I mod games like gorilla tag!
 
 ## I hope to make great mods for games in the future!
@@ -50,4 +47,6 @@
   </p>
 </details>
 
-<div class="tenor-gif-embed" data-postid="15767396265968221703" data-share-method="host" data-aspect-ratio="0.558233" data-width="100%"><a href="https://tenor.com/view/demon-cat-gif-15767396265968221703">Demon Cat Meme</a>from <a href="https://tenor.com/search/demon+cat-memes">Demon Cat Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+<img width="475" height="475" alt="GHBanner" src="https://https://github.com/GORE-MODS/Shit-forgit/blob/main/tf.gif" />
+</div>
