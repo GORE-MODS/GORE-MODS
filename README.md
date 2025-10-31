@@ -48,5 +48,5 @@
 </details>
 
 <div align="center">
-<img width="475" height="475" alt="GHBanner" src="https://https://github.com/GORE-MODS/Shit-forgit/blob/main/tf.gif" />
+<img width="1280" height="1280" alt="tyyugBanner" src="https://https://github.com/GORE-MODS/Shit-forgit/blob/main/tf.gif" />
 </div>
