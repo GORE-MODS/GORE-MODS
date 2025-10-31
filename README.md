@@ -7,8 +7,6 @@
 
 ## Hello! I'm GORE and I mod games like gorilla tag!
 
-## Very cool ikr
-
 ## I hope to make great mods for games in the future!
 
 <details>
@@ -51,3 +49,5 @@
 <br><br>
   </p>
 </details>
+
+<div class="tenor-gif-embed" data-postid="15767396265968221703" data-share-method="host" data-aspect-ratio="0.558233" data-width="100%"><a href="https://tenor.com/view/demon-cat-gif-15767396265968221703">Demon Cat Meme</a>from <a href="https://tenor.com/search/demon+cat-memes">Demon Cat Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
