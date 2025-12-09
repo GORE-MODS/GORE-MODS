@@ -47,6 +47,9 @@
   </p>
 </details>
 
-<div align="center">
-<img width="670" height="670" alt="tyyugBanner" src="https://github.com/GORE-MODS/Shit-forgit/blob/d37777308a1671cf5733decaee7541812bc3220f/tf.gif" />
-</div>
+<details>
+  <summary>Donate</summary>
+  <a href="https://cash.app/$gorewashere"><img src="https://img.shields.io/badge/Donate-CashApp-%2300C1A7?style=for-the-badge&logo=cashapp" height="32"></a>
+<br><br>
+  </p>
+</details>
